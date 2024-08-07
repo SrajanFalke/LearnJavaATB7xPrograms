@@ -1,6 +1,6 @@
 package StringConstantPool;
 
-public class DisplayingFiesrAndLast {
+public class DisplayingFirstAndLast {
     public static void main(String[] args) {
         String s1 = "I am Superman";
         int l = s1.length();
