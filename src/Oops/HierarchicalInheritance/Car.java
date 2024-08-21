@@ -1,4 +1,4 @@
-package HierarchicalInheritance;
+package Oops.HierarchicalInheritance;
 
 public class Car {
     void breakshoe(){

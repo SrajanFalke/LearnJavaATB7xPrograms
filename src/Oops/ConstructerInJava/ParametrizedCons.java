@@ -1,6 +1,4 @@
-package ConstructerInJava;
-
-import java.util.Scanner;
+package Oops.ConstructerInJava;
 
 public class ParametrizedCons {
     int age;

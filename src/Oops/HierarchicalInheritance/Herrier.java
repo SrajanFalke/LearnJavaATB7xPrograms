@@ -1,4 +1,4 @@
-package HierarchicalInheritance;
+package Oops.HierarchicalInheritance;
 
 public class Herrier extends Car{
     public static void main(String[] args) {

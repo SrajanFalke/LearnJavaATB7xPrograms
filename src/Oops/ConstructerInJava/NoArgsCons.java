@@ -1,4 +1,4 @@
-package ConstructerInJava;
+package Oops.ConstructerInJava;
 
 public class NoArgsCons {
     public void NoArgsCons(){

@@ -1,4 +1,4 @@
-package HierarchicalInheritance;
+package Oops.HierarchicalInheritance;
 
 public class GrandI10 extends Car{
     public static void main(String[] args) {
