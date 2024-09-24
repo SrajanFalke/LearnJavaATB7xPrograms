@@ -1,8 +1,8 @@
 package Encapsulation;
 
 public class Teacher {
-    private String designation = "Maths Teacher";
-    private String collegeName = "saraswati sishu mandir";
+    private String designation ;
+    private String collegeName ;
 
     public String getDesignation() {
         return designation;
@@ -21,4 +21,3 @@ public class Teacher {
     }
 }
 
-}

@@ -8,7 +8,10 @@ public class JrTeacher extends Teacher {
          * directly we are using public getter method
          * to access the private members of parent class
          */
+        obj.setCollegeName("taskh");
         System.out.println(obj.getCollegeName());
+        System.out.println("________________");
+        obj.setDesignation("Student");
         System.out.println(obj.getDesignation());
         System.out.println(obj.mainSubject);
         obj.does();
