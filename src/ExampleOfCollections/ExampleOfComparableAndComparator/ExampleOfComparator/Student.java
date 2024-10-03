@@ -1,7 +1,4 @@
-package ExampleOfCollections.ExamplesOfArrayList.SortinginArrayList;
-
-import java.util.Comparator;
-import java.util.List;
+package ExampleOfCollections.ExampleOfComparableAndComparator.ExampleOfComparator;
 
 //public class Student implements Comparable<Student>
 public class Student {

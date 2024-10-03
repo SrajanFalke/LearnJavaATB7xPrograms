@@ -1,0 +1,17 @@
+<<Comparable>>
+1. Comparable is a pre-defined interface present in java.lang package.
+2. Comparable was introduced from JDK 1.2 .
+3. <<Comparable>> has an abstract method called as compareTo().
+4. <<Comparable>> is used to compare objects and sort them.
+5. Default Sorting and Mutual Comparison. ?
+
+syntax : public int compareTo(Object o); // E e
+
+compareTo() returns -> +1 if it is greater than
+-> -1 if it is lesser than
+-> 0 if it same objects
+
+Rules to make the objects as comparable/ Rules in order to work with Comparable interface.
+1. class has to implement Comparable interface.
+2. Specify the Generics Type of which objects we are going to compare.
+3. Override the compareTo() by specifying the business logic of comparing or sorting.

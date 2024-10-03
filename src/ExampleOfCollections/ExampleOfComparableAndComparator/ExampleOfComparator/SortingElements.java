@@ -1,4 +1,4 @@
-package ExampleOfCollections.ExamplesOfArrayList.SortinginArrayList;
+package ExampleOfCollections.ExampleOfComparableAndComparator.ExampleOfComparator;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,24 +1,11 @@
-package Encapsulation;
+package Oops.Encapsulation;
 
-public class Teacher {
-    private String designation = "Maths Teacher";
-    private String collegeName = "saraswati sishu mandir";
+import Encapsulation.Teacher;
 
-    public String getDesignation() {
-        return designation;
+public class JrTeacher extends Teacher {
+    public static void main(String[] args) {
+        JrTeacher j = new JrTeacher();
+        j.setCollegeName("Fiddu");
+        System.out.println(j.getCollegeName());
     }
-    protected void setDesignation(String designation) {
-        this.designation = designation;
-    }
-    protected String getCollegeName() {
-        return collegeName;
-    }
-    protected void setCollegeName(String collegeName) {
-        this.collegeName = collegeName;
-    }
-    void does(){
-        System.out.println("Teaching");
-    }
-}
-
 }
