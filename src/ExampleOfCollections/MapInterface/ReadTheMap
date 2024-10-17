@@ -1,0 +1,28 @@
+Map:
+========
+1. Map is a part of Collection Framework which does not extend the Collection interface.
+2. Map is used organize the data in terms of key and value pair.
+i. Keys cannot be Duplicated
+ii. Values can be Duplicated
+3. Map is a pre-defined interface present in java.util package.
+4. Map was introduced from JDK 1.2
+5. The Implementation Classes of the <<Map>> are:
+
+a. HashMap
+b. LinkedHashMap
+c. TreeMap
+d. HashTable
+6. One key and value together we call it as ENTRY. Therefore In order
+Map is a collection ENTRIES.
+
+Important methods used wrt Maps
+-------------------------------
+1. put()
+2. get()
+3. clear()
+4. isEmpty()
+5. remove()
+6. containsKey()
+7. containsValue()
+8. keySet()
+9. size()
